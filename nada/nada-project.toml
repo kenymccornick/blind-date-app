@@ -3,5 +3,6 @@ version = "0.1.0"
 authors = [""]
 
 [[programs]]
-path = "src/main.py"
+path = "src/blind_date.py"
+name = "blind_date"
 prime_size = 128
